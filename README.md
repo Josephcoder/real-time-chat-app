@@ -1,8 +1,8 @@
 # real-time-chat-app
 
-# Technology used include MERN
+## Technology used include MERN
 
-## More specific For the Frontend
+### More specific For the Frontend
 
 - React as framework
 - React router for navigation
@@ -11,7 +11,7 @@
 - Redux with Persistent for store in local storage
 - React drop zone for image upload
 
-## For the backend
+### For the backend
 
 - Node js as run time
 - Express js as backend framework
